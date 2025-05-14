@@ -1,6 +1,6 @@
 {
-  "channel_type": "wx",
-  "model": "",
+  "channel_type": "web",
+  "model": "gpt-4o-mini",
   "open_ai_api_key": "YOUR API KEY",
   "claude_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
